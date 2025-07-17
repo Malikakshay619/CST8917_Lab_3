@@ -68,9 +68,9 @@ The flowchart outlining the moderation workflow is included below:
   - Body included the message content, sender name, and timestamp.
 
 ### Screenshots:
+![Teams chat sample](./teamschat.png)
 ![Run history of Logic App](./runhistory.png)
 ![Email alert screenshot](./emailalert.png)
-![Teams chat sample](./teamschat.png)
 
 ---
 
