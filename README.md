@@ -49,7 +49,7 @@ Technologies used:
 
 The flowchart outlining the moderation workflow is included below:
 
-![Moderation Flowchart](./flowchart.png)
+![Moderation Flowchart](./flowchart2.png)
 
 ---
 
