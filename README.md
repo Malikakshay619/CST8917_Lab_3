@@ -68,9 +68,9 @@ The flowchart outlining the moderation workflow is included below:
   - Body included the message content, sender name, and timestamp.
 
 ### Screenshots:
-- Run history of Logic App
-- Email alert screenshot
-- Teams chat sample
+![Run history of Logic App](./runhistory.png)
+![Email alert screenshot](./emailalert.png)
+![Teams chat sample](./teamschat.png)
 
 ---
 
@@ -86,5 +86,5 @@ Added a **“Get message details”** step immediately after the trigger. This r
 
 ## 🎥 Demo Video
 
-[Click here to watch the demo video](https://your-demo-video-link.com)
+[Click here to watch the demo video](https://drive.google.com/file/d/1i6ZysIWS9F1vXk0FH3tlo73U9D7uCDCC/view?usp=sharing)
 
