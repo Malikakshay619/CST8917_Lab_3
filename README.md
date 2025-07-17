@@ -84,41 +84,7 @@ Added a **“Get message details”** step immediately after the trigger. This r
 
 ---
 
-## 🌱 Optional Enhancements (Not Implemented Yet)
-
-- ✅ **Azure Cognitive Services**: Use Content Moderator or Text Analytics to evaluate message tone, sentiment, or detect hate speech more accurately.
-- ⚙️ **Azure Functions**: Pre-process messages (e.g., redact PII, normalize text).
-- 📊 Store violation logs in a database for analytics or reporting.
-
----
-
-## 💡 Recommendations
-
-- Add a dashboard to track violations over time.
-- Enable team-wide policies and automatic muting or tagging of users.
-- Enhance the logic with AI models for smarter detection.
-- Add adaptive cards to notify users inside Teams.
-
----
-
 ## 🎥 Demo Video
 
 [Click here to watch the demo video](https://your-demo-video-link.com)
 
----
-
-## 📁 Project Files
-
-```
-Lab3-Teams-Moderation/
-├── logicapp-definition.json
-├── flowchart.png
-├── README.md
-└── (optional) demo-video-link.txt
-```
-
----
-
-## ✅ Lab Completed
-
-All required components have been implemented and tested. Optional services were considered but not integrated in this version. Challenges with the Teams trigger were identified and resolved.
