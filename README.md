@@ -69,7 +69,6 @@ The flowchart outlining the moderation workflow is included below:
 
 ### Screenshots:
 ![Teams chat sample](./teamschat.png)
-![Run history of Logic App](./runhistory.png)
 
 ---
 
